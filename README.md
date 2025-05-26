@@ -3,12 +3,13 @@
 # Tools Used
 - Nmap 7.97 (Command Line)
 - OS: Windows 11
+- Command prompt
 
 # Scan Details
 Scanned IP: `192.168.0.105` (Local device)
 
 ### Open Ports Found:
-# Port   Service           Description                    
+# Port-Service-Description                    
 1) 135   msrpc       -->   Windows RPC                    
 2) 139   netbios-ssn  -->   NetBIOS session service        
 3) 445   microsoft-ds -->   SMB over TCP                   
